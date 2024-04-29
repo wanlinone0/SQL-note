@@ -1,5 +1,6 @@
+# SQL 10小时速成笔记 - 第三章（自用版）
 在多张表格中检索数据
-# 1-Inner Joins 内连接 / JOIN ON
+## 1-Inner Joins 内连接 / JOIN ON
 customers 和 orders在不同表格
 
 因为customers的地址、手机会经常更改，如果orders里面也记录了顾客地址等，会每次更改时都要改两张表里的数据，很麻烦
